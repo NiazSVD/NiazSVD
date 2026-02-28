@@ -35,14 +35,6 @@ I am a **Senior Laravel Backend Developer** with a passion for designing high-pe
 
 ---
 
-### 🏆 Achievements (GitHub Trophies)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NiazSVD&theme=darkhub&no-bg=true&column=4&margin-w=15&margin-h=15" alt="NiazSVD Trophies" />
-</p>
-
----
-
 ### 🛠️ Professional Tech Stack
 
 <div align="center">
@@ -60,10 +52,10 @@ I am a **Senior Laravel Backend Developer** with a passion for designing high-pe
 ### 📊 Professional Metrics
 
 <table align="center">
-  <tr>
+  <!-- <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=NiazSVD&show_icons=true&theme=radical&hide_border=true&title_color=00FF41&icon_color=00FF41&bg_color=0D1117" height="200" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiazSVD&layout=compact&theme=radical&hide_border=true&title_color=00FF41&bg_color=0D1117" height="200" /></td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NiazSVD&theme=radical&hide_border=true&stroke=00FF41&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="100%" /></td>
   </tr>
@@ -86,6 +78,13 @@ I am a **Senior Laravel Backend Developer** with a passion for designing high-pe
 
 ---
 
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiazSVD&theme=react-dark" width="100%" />
+</p>
+
+---
+
 ### 📞 Let's Build Something Amazing!
 Whether you have a question or just want to say hi, my inbox is always open.
 
@@ -94,6 +93,8 @@ Whether you have a question or just want to say hi, my inbox is always open.
   <a href="https://linkedin.com/in/NiazSVD"><b>LinkedIn</b></a> •
   <a href="https://twitter.com/yourhandle"><b>Twitter</b></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
