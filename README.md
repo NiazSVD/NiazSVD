@@ -71,16 +71,16 @@ I am a **Senior Laravel Backend Developer** with a passion for designing high-pe
 
 ---
 
-### ✍️ Random Quote for Today
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiazSVD&theme=react-dark" width="100%" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+### ✍️ Random Quote for Today
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiazSVD&theme=react-dark" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
